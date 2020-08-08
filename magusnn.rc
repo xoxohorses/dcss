@@ -207,7 +207,7 @@ autopickup = /%?"!+|0}$
 ae := autopickup_exceptions
 ae += <tins of tremorstones
 ae += <javelin
-ae += <throwing net
+ae += <dart
 : if you.race() == "Troll" then
 ae += <large rock
 : end
